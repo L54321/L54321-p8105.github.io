@@ -1,0 +1,27 @@
+---
+title: "About this webiste"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This website was made as an example for course P8105 [P8105](https://p8105.com/making_websites.html) for "mkaing webistes" poart. Im making in RMD and will use Github for hosting
+
+This is an awesome website
+
+Sometimes I use [google] (https://www.google.com) to do data science when I`m stuck
+
+This is my cat Ted. He is a good cat.##
+
+![](istockphoto-1443562748-1024x1024.jpg)
+
+<img src="istockphoto-1443562748-1024x1024.jpg" style="width:71%">
+
+I you like to learn more about this website, visiti this page [this page](about.html)
+
+
+
+
+
